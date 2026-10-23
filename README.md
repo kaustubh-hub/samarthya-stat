@@ -1,4 +1,4 @@
-# Samarthya-Stat — AI Skill Intelligence Platform (MoSPI / iGOT Karmayogi)
+# Samarthya-Stat - AI Skill Intelligence Platform (MoSPI / iGOT Karmayogi)
 
 React + Vite UI with a server (`server.js`: Express + Google Gemini). An AI agent reads an officer's resume,
 builds a competency profile, generates personalised quizzes and recommends iGOT courses. Officers' progress is saved,
